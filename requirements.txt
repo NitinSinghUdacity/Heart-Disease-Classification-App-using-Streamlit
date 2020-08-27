@@ -4,6 +4,5 @@ pandas
 sklearn
 matplotlib
 seaborn
-warnings
 sklearn
 pickle
