@@ -4,7 +4,6 @@ pandas
 sklearn
 matplotlib
 seaborn
-os
 warnings
 sklearn
 pickle
