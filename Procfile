@@ -1,1 +1,1 @@
-web : sh setup.sh && streamlit run stlearn.py
+worker : sh setup.sh && streamlit run stlearn.py
