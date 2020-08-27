@@ -1,7 +1,7 @@
 streamlit
 numpy>=1.9.2
 pandas>=0.19 
-sklearn
+sklearn>=0.22.1
 matplotlib>=1.4.3
 seaborn
 sklearn
